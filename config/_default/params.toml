@@ -19,7 +19,7 @@ subtitle = "Welcome to my journey toward an active, creative, and risk-taking ap
 [sidebar.avatar]
 enabled = true
 local = true
-src = "anthropeneur-logo.png"
+src = "avatar.png"
 
 [article]
 headingAnchor = false

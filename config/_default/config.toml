@@ -16,3 +16,8 @@ disqusShortname = "hugo-theme-stack"
 
 [pagination]
 pagerSize = 5
+
+[params.avatar]
+enabled = true
+local = true
+src = "/anthropeneur-logo.png"

@@ -1,7 +1,7 @@
 ---
 title: What is Anthropeneur
 description: My letter of statement
-date: 2025-03-23
+date: 2025-03-23 00:00:00+0000
 categories:
     - experiments
     - challenges
